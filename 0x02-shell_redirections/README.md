@@ -16,7 +16,7 @@ file 14-findthatword "Display lines containing the pattern “root” from the f
 file 15-countthatword "Display the number of lines that contain the pattern “bin” in the file /etc/passwd" - 
 file 16-whatsnext "Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd." -
 file 17-hidethisword "Display all the lines in the file /etc/passwd that do not contain the pattern “bin”." -
-file 18-letteronly "Display all lines of the file /etc/ssh/sshd_config starting with a letter.  [[:alpha:]] Matches alphabetic characters (letters)" -
+file 18-letteronly "Display all lines of the file /etc/ssh/sshd_config starting with a letter. [[:alpha:]] Matches alphabetic characters (letters)" -
 file 19-AZ "Replace all characters A and c from input to Z and e respectively." -
 file 20-hiago "script that removes all letters c and C from input." -
 file 21-reverse "script that reverse its input." -
