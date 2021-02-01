@@ -19,4 +19,5 @@ file 17-hidethisword "Display all the lines in the file /etc/passwd that do not 
 file 18-letteronly "Display all lines of the file /etc/ssh/sshd_config starting with a letter.  [[:alpha:]] Matches alphabetic characters (letters)" -
 file 19-AZ "Replace all characters A and c from input to Z and e respectively." -
 file 20-hiago "script that removes all letters c and C from input." -
+file 21-reverse "script that reverse its input." -
 
