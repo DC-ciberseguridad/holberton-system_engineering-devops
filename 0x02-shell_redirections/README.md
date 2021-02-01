@@ -12,3 +12,4 @@ file 10-no_more_js "script that deletes all the regular files (not the directori
 file 11-directories "11. Don't just count your directories, make your directories count" -
 file 12-newest_files "script that displays the 10 newest files in the current directory." -
 file 13-unique "script that takes a list of words as input and prints only words that appear exactly once." -
+file 14-findthatword "Display lines containing the pattern “root” from the file /etc/passwd" -
