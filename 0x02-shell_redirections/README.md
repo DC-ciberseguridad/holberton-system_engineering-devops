@@ -14,3 +14,4 @@ file 12-newest_files "script that displays the 10 newest files in the current di
 file 13-unique "script that takes a list of words as input and prints only words that appear exactly once." -
 file 14-findthatword "Display lines containing the pattern “root” from the file /etc/passwd" -
 file 15-countthatword "Display the number of lines that contain the pattern “bin” in the file /etc/passwd" - 
+file 16-whatsnext "Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd." -
