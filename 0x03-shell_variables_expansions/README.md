@@ -4,4 +4,15 @@ file 2-path "Add /action to the PATH. /action should be the last directory the s
 file 3-paths "script that counts the number of directories in the PATH." -
 file 4-global_variables "script that lists environment variables." -
 file 5-local_variables "script that lists all local variables and environment variables, and functions" -
+file 6-create_local_variable "script that creates a new local variable.
+
+    Name: BETTY
+    Value: Holberton
+"-
+file 7-create_global_variable "Create a script that creates a new global variable.
+
+    Name: HOLBERTON
+    Value: Betty
+"-
+file 8-true_knowledge "Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line."-
 
